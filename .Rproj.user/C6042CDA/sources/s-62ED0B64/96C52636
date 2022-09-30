@@ -1,9 +1,9 @@
 {
     "id": "96C52636",
-    "path": null,
-    "project_path": null,
-    "type": "r_source",
-    "hash": "0",
+    "path": "~/USArtists/.Renviron",
+    "project_path": ".Renviron",
+    "type": "sh",
+    "hash": "3689509556",
     "contents": "",
     "dirty": false,
     "created": 1664532832218.0,
@@ -12,14 +12,16 @@
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Sources4cet8zhi1ig"
+        "Source": "Sources4cet8zhi1ig",
+        "cursorPosition": "0,52",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 279275953455616,
-    "encoding": "",
+    "lastKnownWriteTime": 1664533499,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1664532832218,
+    "last_content_update": 1664533499690,
     "read_only": false,
     "read_only_alternatives": []
 }
